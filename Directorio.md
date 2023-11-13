@@ -19,3 +19,8 @@ https://pastebin.com/
 
 ----
 
+### Search 0t 
+Permite buscar por nombre, apellido, correo, usuario, password, dominio. Hasta ahora no me ha arrojado nada chido
+https://search.0t.rocks
+
+----
